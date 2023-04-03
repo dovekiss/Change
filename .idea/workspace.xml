@@ -4,42 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ae72e02-9388-41ab-b44e-7750371e1141" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/cailiaomuban - 副本 (2).xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/cailiaomuban - 副本 (3).xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/cailiaomuban - 副本.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/cailiaomuban.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/cailiaowuliaoshumuban.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/jiajuwuliaoshumuban.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/jiejunwuliaoshumuban.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/kaiguanwuliaoshumuban.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/muban.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/tupian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/wujinwuliaoshumuban.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/五金技术规格书.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/五金清单转物料书.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/家具技术规格书.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/家具清单转物料书.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/开关技术规格书.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/开关清单转物料书.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/批量导入图片-单页物料书.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/批量导入图片-多页物料书.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/批量导入图片-清单.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/批量重命名图片.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/材料清单转物料书.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/材质技术规格书.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/材质清单.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/材质物料书转清单.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/洁具技术规格书.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/洁具清单转物料书.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习/小工具开发/清单.xls" afterDir="false" />
+    <list default="true" id="9ae72e02-9388-41ab-b44e-7750371e1141" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "E:/project/学习/小工具开发",
     "settings.editor.selected.configurable": "vcs.Git"
   }
@@ -1150,6 +1118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1649737906653</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1680488984190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680488984190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1162,6 +1138,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
